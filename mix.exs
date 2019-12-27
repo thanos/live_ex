@@ -28,7 +28,7 @@ defmodule LiveEx.MixProject do
   defp deps do
     [
       {:poison, "~> 3.1"},
-      {:phoenix_live_view, "~> 0.3.1"}
+      {:phoenix_live_view, "~> 0.4.1"}
     ]
   end
 end
